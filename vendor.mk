@@ -1,6 +1,6 @@
 PRODUCT_PACKAGES += \
   AndroidTerm \
-  DRM \
+  DRMInfo \
   ESFileExplorer \
   Geekbench \
   Kodi \
