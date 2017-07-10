@@ -3,7 +3,6 @@ PRODUCT_PACKAGES += \
   DRMInfo \
   ESFileExplorer \
   Geekbench \
-  Kodi \
   MaterialTerminal \
   Plex \
   SideloadLauncher \
