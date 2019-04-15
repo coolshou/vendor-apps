@@ -1,7 +1,7 @@
 PRODUCT_PACKAGES += \
   AndroidTerm \
+  Astro \
   DRMInfo \
-  ESFileExplorer \
   MaterialTerminal \
   Plex \
   SideloadLauncher \
