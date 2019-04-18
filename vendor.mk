@@ -1,4 +1,5 @@
 PRODUCT_PACKAGES += \
+  adbjoinwifi \
   AndroidTerm \
   Astro \
   DRMInfo \
